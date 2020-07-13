@@ -1,5 +1,3 @@
-### Hello World 👊
-
 <!--
 **axuebin/axuebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://imgkr.cn-bj.ufileos.com/f7ed83b0-26ea-4965-abaa-73f34a462c76.png)
